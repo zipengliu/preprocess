@@ -2,23 +2,23 @@
   "name": "preprocess",
   "description": "Preprocess directives in HTML, JavaScript, etc directives based off variable context",
   "version": "2.0.0",
-  "homepage": "https://github.com/jsoverson/preprocess",
+  "homepage": "https://github.com/winnieliu/preprocess",
   "author": {
-    "name": "Jarrod Overson",
-    "email": "jsoverson@gmail.com",
-    "url": "http://jarrodoverson.com/"
+    "name": "Winnie Liu",
+    "email": "winnieliupku@gmail.com",
+    "url": "http://winnieliu.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsoverson/preprocess.git"
+    "url": "git://github.com/winnieliu/preprocess.git"
   },
   "bugs": {
-    "url": "https://github.com/jsoverson/preprocess/issues"
+    "url": "https://github.com/winnieliu/preprocess/issues"
   },
   "licenses": [
     {
       "type": "Apache 2.0",
-      "url": "https://github.com/jsoverson/preprocess/blob/master/LICENSE"
+      "url": "https://github.com/winnieliu/preprocess/blob/master/LICENSE"
     }
   ],
   "main": "lib/preprocess.js",
